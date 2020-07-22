@@ -1,7 +1,11 @@
 body {
 	color: #6B0504;	
-    background-color: #EAE6E5;
-}
-div{
-    color: purple;
-}
+    background-color: #EAE6E5}
+     div{
+         border:solid 8px purple;
+         padding: 20px 30px 20px 30px;
+         margin: 35px
+     }
+     #money{
+         background-color: paleturquoise;
+     }
