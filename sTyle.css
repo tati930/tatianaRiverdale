@@ -1,4 +1,9 @@
 body {
-	color:orchid;	
-    background-color:paleturquoise
+	color: #6B0504;	
+    background-color: #EAE6E5;
+}
+div{
+    color: purple;
+    border: rgb(58, 128, 128)
+    border-width: 10px
 }
